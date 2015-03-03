@@ -1,0 +1,1 @@
+{"builders":{"default":"maven"},"runners":{"configs":{"recommend":{"ram":256,"variables":{},"options":{}}},"default":"system:/java/standalone/simple/cli"},"description":"Small library for codecs used in puzzles (morse, nraille, etc).","type":"maven","attributes":{"language":["java"]}}
